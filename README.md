@@ -78,5 +78,12 @@ flutter pub get
 flutter run
 
 # 6. En navegador web (Chrome) (recomendado para esta app, como lo inicio yo)
-flutter run -d chrome 
+flutter run -d chrome
+
+```
+## 👨‍💻 Equipo de Desarrollo
+
+- Eric López Guijarro
+
+
 
