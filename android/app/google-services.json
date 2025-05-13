@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304419903921",
+    "project_id": "cookeasy-bcb38",
+    "storage_bucket": "cookeasy-bcb38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304419903921:android:2bd4479dcdfed75f318590",
+        "android_client_info": {
+          "package_name": "com.example.chefio1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304419903921-rgalu5ijvo56qn73lf9hl1ih6j5d1m9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyl-8k8x0VWPIIQ5Y-rngWRSChQpJdyxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304419903921-rgalu5ijvo56qn73lf9hl1ih6j5d1m9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
