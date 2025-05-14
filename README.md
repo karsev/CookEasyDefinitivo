@@ -54,7 +54,8 @@ Esta sección explica paso a paso cómo instalar, configurar y arrancar la aplic
 ### 📝 Requisitos previos
 
 - **Git**: para clonar el repositorio.  
-- **Flutter SDK** instalado y añadido al `PATH`: sigue la guía oficial en https://flutter.dev/docs/get-started/install  
+- **Flutter SDK** instalado y añadido al `PATH`: sigue la guía oficial en https://flutter.dev/docs/get-started/install
+- **Visual Studio Code** con extensiones dart y flutter instaladas.
 - **Android Studio** (o Xcode en macOS) con el SDK de Android configurado, o un dispositivo físico/emulador listo para ejecutar la app.  
 
 ---
